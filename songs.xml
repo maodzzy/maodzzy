@@ -3,62 +3,352 @@
     <autoSort>true</autoSort>
     <song>
         <additionalCopyrightNotes></additionalCopyrightNotes>
-        <authorText>Автор песни</authorText>
+        <authorText>Green Day</authorText>
         
-        <chordSequence>C F C F G C
-C F C F G D C</chordSequence>
-        <composer>Mathis Dirksen-Thedens</composer>
+        <chordSequence></chordSequence>
+        <composer></composer>
         <language>russian</language>
-        <lyrics>  C        F           C
-This is a boring test song
-[Dies is ein Test-Lied]
-           F
-which has multiple lines
-[das mehrere Zeilen hat]
-          G   C
-in each verse
-[in jeder Strophe]
+        <lyrics>  
 
-     C      F      C
-But see the other test song
-[Aber sieh Dir das andere Test-Lied an]
-         F
-I'm sure it will be
-[ich bin sicher, es wird]
-           G  D  C
-much much better
-[viel, viel besser sein]</lyrics>
+Fm        G#
+ I walk a lonely road
+    D#             A#           Fm
+The only one that I have ever known
+           G#        
+Don't know where it goes 
+D#                A#              Fm
+But it's home to me and I walk alone
+
+Fm G# D# A#
+
+Fm            G#   
+  I walk this empty street
+D#           A#              Fm      
+On the Boulevard of Broken Dreams
+          G#    
+Where the city sleeps
+    D#            A#               Fm
+And I'm the only one and I walk alone
+
+G#  
+
+  D#    A#
+I walk alone
+        Fm
+I walk alone
+
+G# 
+
+  D#     A# 
+I walk alone
+A#
+I walk a...
+
+Chorus:
+C#    G#            D#             A#
+  My shadow's the only one that walks beside me
+C#    G#       D#                A#
+  My shallow heart's the only thing that's beating
+C#     G#       D#                A#
+  Sometimes I wish someone out there will find me
+C#      G#      C
+  'Til then I walk alone
+
+Fm      G#      D#      A#     Fm
+  Ah-ah, Ah-ah, Ah-ah, Aaah-ah,
+      G#      D#    A#   
+Ah-ah, Ah-ah, Ah-ah
+
+Fm            G#        
+  I'm walking down the line
+D#               A#               Fm
+That divides me somewhere in my mind
+       G#  
+On the border line
+D#               A#             Fm  
+Of the edge and where I walk alone
+
+Fm G# D# A# 
+
+Fm       G#            
+  Read between the lines
+D#                    A#            Fm
+What's fucked up and everything's alright
+         G#          
+Check my vital signs
+   D#              A#                 Fm
+To know I'm still alive and I walk alone
+
+G# 
+
+ D#     A#
+I walk alone
+        Fm
+I walk alone
+ 
+G#  
+
+  D#    A#
+I walk alone    
+A#
+I walk a...
+
+Chorus:
+C#    G#            D#             A#
+  My shadow's the only one that walks beside me
+C#    G#       D#                A#
+  My shallow heart's the only thing that's beating
+C#     G#       D#                A#
+  Sometimes I wish someone out there will find me
+C#      G#      C
+  'Til then I walk alone
+
+Fm      G#      D#      A#     Fm
+  Ah-ah, Ah-ah, Ah-ah, Aaah-ah
+      G#     D#
+Ah-ah, Ah-ah
+       A#
+I walk alone 
+A#
+I walk a...
+
+Solo: C# G# D# Fm }x3
+      C# G# C
+
+Fm            G#           
+  I walk this empty street
+D#           A#              Fm
+On the Boulevard of Broken Dreams
+          G#      
+Where the city sleeps
+    D#            A#
+And I'm the only one and I walk a...
+
+C#    G#            D#             A#
+  My shadow's the only one that walks beside me
+C#    G#       D#                A#
+  My shallow heart's the only thing that's beating
+C#     G#       D#                A#
+  Sometimes I wish someone out there will find me
+C#      G#      C
+  'Til then I walk alone...
+
+</lyrics>
         <publisher></publisher>
         <songNotes></songNotes>
-        <title>Test Song</title>
+        <title>Boulevard_of_broken_dreams</title>
         <tonality></tonality>
-        <uuid>9c44c9ac-226a-4478-b2fe-0e8dccc062cf</uuid>
+        <uuid></uuid>
+    </song>
+<song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
     </song>
     <song>
         <additionalCopyrightNotes></additionalCopyrightNotes>
-        <authorText>Mathis Dirksen-Thedens</authorText>
-        <authorTranslation></authorTranslation>
+        <authorText></authorText>
+        
         <chordSequence></chordSequence>
         <composer></composer>
-        <language>english</language>
-        <lyrics>This app is used to display
-the data produced by Song Database,
-an open source software which you can get at
-https://zephyrsoft.org/sdb
-
-You have to upload the file "songs.xml"
-to a place which is publicly accessible
-so this app can display the data in it.
-
-You can also use a synchronization solution
-like Nextcloud (see https://nextcloud.com).
-
-If you use Song Database but are unsure how to
-upload your songs and access it with this app,
-you are welcome to write me an email.
-My contact details are at
-https://zephyrsoft.org/contact-about-me</lyrics>
-        <title>How This App Is Used</title>
-        <uuid>1e48767c-6cc8-48ea-917a-e894d93c149b</uuid>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
     </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+     <song>
+        <additionalCopyrightNotes></additionalCopyrightNotes>
+        <authorText></authorText>
+        
+        <chordSequence></chordSequence>
+        <composer></composer>
+        <language>russian</language>
+        <lyrics>  </lyrics>
+        <publisher></publisher>
+        <songNotes></songNotes>
+        <title></title>
+        <tonality></tonality>
+        <uuid></uuid>
+    </song>
+ 
 </songs>
